@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 
 from src.exception import CustomException
-from src.logger import logging
+# from src.logger import logging
 from src.utils.utils import load_object
 from src.utils.constants import DATA_FOLDER_NAME, MODEL_FILE_NAME, PREPROCESSOR_FILE_NAME
 
@@ -14,16 +14,16 @@ class PredictPipeline:
       preprocessor_path = os.path.join(DATA_FOLDER_NAME, PREPROCESSOR_FILE_NAME)
 
       model = load_object(model_path)
-      logging.info('Loaded Model')
+      # logging.info('Loaded Model')
 
       preprocessor = load_object(preprocessor_path)
-      logging.info('Loaded Preprocessor')
+      # logging.info('Loaded Preprocessor')
 
       scaled_data = preprocessor.transform(features)
-      logging.info('Input Data Transformation is Successful')
+      # logging.info('Input Data Transformation is Successful')
 
       prediction = model.predict(scaled_data)
-      logging.info('Price is Predicted Successfully')
+      # logging.info('Price is Predicted Successfully')
 
       return prediction
     except Exception as err:
