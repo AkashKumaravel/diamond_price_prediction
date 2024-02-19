@@ -1,0 +1,227 @@
+[ 2024-02-19 14:41:54,502 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 14:41:54,608 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 14:41:54,609 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 14:41:54,915 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 14:41:55,284 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 14:41:55,286 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 14:41:55,565 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 14:41:55,695 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 14:41:55,705 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 14:41:55,706 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-19 14:43:14,012 ] 52 root - INFO - Model Evaluation Ended
+[ 2024-02-19 14:43:14,012 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 14:43:14,717 ] 42 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 14:45:12,001 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 14:45:12,002 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 14:45:12,125 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 14:45:12,129 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 14:45:12,132 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 14:45:12,134 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 14:45:12,932 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 14:45:12,934 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 14:45:13,787 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 14:45:13,792 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 14:45:13,793 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 14:45:13,797 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 14:45:14,163 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 14:45:14,189 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 14:45:14,353 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 14:45:14,368 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 14:45:14,370 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-19 14:45:14,425 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 14:45:14,439 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 14:45:14,440 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-19 14:46:14,460 ] 52 root - INFO - Model Evaluation Ended
+[ 2024-02-19 14:46:14,460 ] 34 root - INFO - Found the best Model
+[ 2024-02-19 14:46:14,903 ] 52 root - INFO - Model Evaluation Ended
+[ 2024-02-19 14:46:14,903 ] 34 root - INFO - Found the best Model
+[ 2024-02-19 14:46:15,473 ] 38 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 14:46:16,023 ] 38 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 14:56:28,128 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 14:56:28,226 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 14:56:28,227 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 14:56:28,544 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 14:56:28,896 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 14:56:28,898 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 14:56:29,143 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 14:56:29,275 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 14:56:29,286 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 14:56:29,287 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 14:57:48,250 ] 55 root - INFO - Model Evaluation Ended
+[ 2024-02-19 14:57:48,251 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 14:58:15,406 ] 41 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 15:01:25,175 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 15:01:25,264 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 15:01:25,265 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 15:01:25,626 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 15:01:25,968 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 15:01:25,970 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 15:01:26,230 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 15:01:26,397 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 15:01:26,405 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 15:01:26,406 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 15:02:31,269 ] 55 root - INFO - Model Evaluation Ended
+[ 2024-02-19 15:02:31,269 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 15:02:57,679 ] 41 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 15:05:14,242 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 15:05:14,335 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 15:05:14,336 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 15:05:14,599 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 15:05:14,843 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 15:05:14,845 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 15:05:15,083 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 15:05:15,183 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 15:05:15,190 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 15:05:15,190 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 15:06:06,307 ] 55 root - INFO - Model Evaluation Ended
+[ 2024-02-19 15:06:06,307 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 15:06:27,548 ] 41 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 15:08:24,215 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 15:08:24,312 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 15:08:24,313 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 15:08:24,593 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 15:08:24,836 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 15:08:24,838 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 15:08:25,066 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 15:08:25,163 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 15:08:25,170 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 15:08:25,170 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 15:09:09,765 ] 55 root - INFO - Model Evaluation Ended
+[ 2024-02-19 15:09:09,765 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 15:09:28,227 ] 41 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 15:11:14,698 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 15:11:14,752 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 15:11:14,753 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 15:11:14,983 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 15:11:15,186 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 15:11:15,188 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 15:11:15,373 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 15:11:15,472 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 15:11:15,480 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 15:11:15,481 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 15:11:53,788 ] 55 root - INFO - Model Evaluation Ended
+[ 2024-02-19 15:11:53,789 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 15:12:09,684 ] 41 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 15:13:40,721 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 15:13:40,774 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 15:13:40,775 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 15:13:40,957 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 15:13:41,135 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 15:13:41,138 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 15:13:41,279 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 15:13:41,363 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 15:13:41,369 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 15:13:41,369 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 15:14:14,787 ] 55 root - INFO - Model Evaluation Ended
+[ 2024-02-19 15:14:14,787 ] 38 root - INFO - Found the best Model
+[ 2024-02-19 15:14:28,985 ] 41 root - INFO - Saved Model Trainer Obj
+[ 2024-02-19 15:15:34,655 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-19 15:15:34,691 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-19 15:15:34,692 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-19 15:15:34,807 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-19 15:15:34,934 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-19 15:15:34,935 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-19 15:15:35,033 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-19 15:15:35,084 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-19 15:15:35,088 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-19 15:15:35,088 ] 45 root - INFO - Model Evaluation Started
+[ 2024-02-19 15:16:26,862 ] 23 root - ERROR - Error occured in file C:\Users\Akash Kumarvel\Desktop\Akash\diamond_price_prediction\src\utils\utils.py line number 34 with the error message [Errno 2] No such file or directory: 'artifact\\model.pkl'
+[ 2024-02-19 15:16:26,871 ] 23 root - ERROR - Error occured in file C:\Users\Akash Kumarvel\Desktop\Akash\diamond_price_prediction\src\pipeline\predict_pipeline.py line number 16 with the error message Error occured in file C:\Users\Akash Kumarvel\Desktop\Akash\diamond_price_prediction\src\utils\utils.py line number 34 with the error message [Errno 2] No such file or directory: 'artifact\\model.pkl'
+[ 2024-02-19 15:16:26,876 ] 23 root - ERROR - Error occured in file C:\Users\Akash Kumarvel\Desktop\Akash\diamond_price_prediction\src\utils\utils.py line number 34 with the error message [Errno 2] No such file or directory: 'artifact\\model.pkl'
+[ 2024-02-19 15:16:26,892 ] 23 root - ERROR - Error occured in file C:\Users\Akash Kumarvel\Desktop\Akash\diamond_price_prediction\src\pipeline\predict_pipeline.py line number 16 with the error message Error occured in file C:\Users\Akash Kumarvel\Desktop\Akash\diamond_price_prediction\src\utils\utils.py line number 34 with the error message [Errno 2] No such file or directory: 'artifact\\model.pkl'
+[ 2024-02-19 15:19:03,539 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:19:03,579 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:19:03,586 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:19:03,593 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:28:26,615 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:28:26,618 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:28:26,624 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:28:26,630 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:28:53,930 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:28:53,933 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:28:53,938 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:28:53,945 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:29:05,983 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:29:05,986 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:29:05,991 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:29:05,997 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:30:17,841 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:30:17,844 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:30:17,849 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:30:17,855 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:32:26,413 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:32:26,441 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:32:26,449 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:32:26,459 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:32:34,653 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:32:34,656 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:32:34,661 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:32:34,668 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:36:36,109 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:36:36,136 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:36:36,143 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:36:36,150 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:36:45,057 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:36:45,060 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:36:45,065 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:36:45,070 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:36:57,470 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:36:57,473 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:36:57,478 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:36:57,485 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:37:05,973 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:37:05,977 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:37:05,982 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:37:05,987 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:38:17,935 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:38:17,937 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:38:17,942 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:38:17,949 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:39:13,452 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:39:13,488 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:39:13,497 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:39:13,505 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:39:21,996 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:39:21,999 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:39:22,007 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:39:22,016 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:41:16,496 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:41:16,517 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:41:16,525 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:41:16,527 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:41:22,360 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:41:22,363 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:41:22,366 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:41:22,368 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:45:00,706 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:45:00,709 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:45:00,714 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:45:00,719 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:45:09,355 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:45:09,358 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:45:09,362 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:45:09,368 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:47:16,394 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:47:16,423 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:47:16,426 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:47:16,428 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:47:22,135 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:47:22,139 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:47:22,142 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:47:22,144 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:47:30,454 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:47:30,459 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:47:30,464 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:47:30,468 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:49:18,741 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:49:18,767 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:49:18,774 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:49:18,780 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:49:48,443 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:49:48,445 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:49:48,449 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:49:48,451 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-19 15:49:53,237 ] 17 root - INFO - Loaded Model
+[ 2024-02-19 15:49:53,240 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-19 15:49:53,242 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-19 15:49:53,244 ] 26 root - INFO - Price is Predicted Successfully

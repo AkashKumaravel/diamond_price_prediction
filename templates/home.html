@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Form</title>
+</head>
+
+<body>
+    <h2>Enter the details about the Diamond to predict the price</h2>
+    <form action="{{ url_for('predict')}}" method="post">
+        <label for="carat">Carat</label>
+        <input type="number" id="carat" name="carat" step="0.01"><br><br>
+
+        <label for="cut">Cut</label>
+        <select id="cut" name="cut">
+            <option value="Ideal">Ideal/option>
+            <option value="Premium">Premium</option>
+            <option value="Very Good">Very Good</option>
+            <option value="Good">Good</option>
+            <option value="Fair">Fair</option>
+        </select><br><br>
+
+        <label for="color">Color</label>
+        <select id="color" name="color">
+            <option value="D">Red</option>
+            <option value="E">Orange</option>
+            <option value="F">Yellow</option>
+            <option value="G">Green</option>
+            <option value="H">Blue</option>
+            <option value="I">Indigo</option>
+            <option value="J">Violet</option>
+        </select><br><br>
+
+        <label for="clarity">Clarity</label>
+        <select id="clarity" name="clarity">
+            <option value="IF">IF</option>
+            <option value="VVS1">VVS1</option>
+            <option value="VVS2">VVS2</option>
+            <option value="VS1">VS1</option>
+            <option value="VS2">VS2</option>
+            <option value="SI1">SI1</option>
+            <option value="SI2">SI2</option>
+            <option value="I1">I1</option>
+        </select><br><br>
+
+        <label for="depth">Depth</label>
+        <input type="number" id="depth" name="depth" step="0.01"><br><br>
+
+        <label for="table">Table</label>
+        <input type="number" id="table" name="table" step="0.01"><br><br>
+
+        <label for="x">X</label>
+        <input type="number" id="x" name="x" step="0.01"><br><br>
+
+        <label for="y">Y</label>
+        <input type="number" id="y" name="y" step="0.01"><br><br>
+
+        <label for="z">Z</label>
+        <input type="number" id="z" name="z" step="0.01"><br><br>
+
+        <input type="submit" value="Predict the Price">
+    </form>
+    <h2>
+      The  predicted price of the diamond is {{price}}
+   </h2>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+pandas
+numpy
+# seaborn
+# matplotlib
+scikit-learn
+# plotly
+flask
+streamlit
+bz2file
+# -e . # To run the setup.py file

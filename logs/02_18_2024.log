@@ -1,0 +1,50 @@
+[ 2024-02-18 19:32:00,270 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-18 19:32:00,425 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-18 19:32:00,426 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-18 19:32:00,847 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-18 19:32:01,356 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-18 19:32:01,359 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-18 19:32:01,799 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-18 19:32:01,973 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-18 19:32:01,996 ] 23 root - INFO - Initiated Model Trainer
+[ 2024-02-18 19:32:01,996 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-18 19:33:56,436 ] 52 root - INFO - Model Evaluation Ended
+[ 2024-02-18 19:33:56,437 ] 40 root - INFO - Found the best Model
+[ 2024-02-18 19:33:56,974 ] 43 root - INFO - Saved Model Trainer Obj
+[ 2024-02-18 19:36:11,926 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-18 19:36:12,069 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-18 19:36:12,070 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-18 19:36:12,548 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-18 19:36:12,977 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-18 19:36:12,981 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-18 19:36:13,356 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-18 19:36:13,556 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-18 19:36:13,565 ] 23 root - INFO - Initiated Model Trainer
+[ 2024-02-18 19:36:13,565 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-18 19:36:22,973 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-18 19:36:23,096 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-18 19:36:23,097 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-18 19:36:23,641 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-18 19:36:24,157 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-18 19:36:24,161 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-18 19:36:24,527 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-18 19:36:24,756 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-18 19:36:24,764 ] 23 root - INFO - Initiated Model Trainer
+[ 2024-02-18 19:36:24,764 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-18 19:38:00,140 ] 17 root - INFO - Loaded Model
+[ 2024-02-18 19:38:00,148 ] 20 root - INFO - Loaded Preprocessor
+[ 2024-02-18 19:38:00,158 ] 23 root - INFO - Input Data Transformation is Successful
+[ 2024-02-18 19:38:00,168 ] 26 root - INFO - Price is Predicted Successfully
+[ 2024-02-18 20:39:32,726 ] 25 root - INFO - Data Ingestion Started
+[ 2024-02-18 20:39:32,876 ] 28 root - INFO - Data has been read successfully
+[ 2024-02-18 20:39:32,877 ] 31 root - INFO - artifact directory has been created
+[ 2024-02-18 20:39:33,469 ] 37 root - INFO - Train Test Split initiated
+[ 2024-02-18 20:39:33,996 ] 42 root - INFO - Train and Test Data has been ingested successfully
+[ 2024-02-18 20:39:33,999 ] 56 root - INFO - Data Transformation Started
+[ 2024-02-18 20:39:34,361 ] 68 root - INFO - Applying preprocessing on train and test dataset
+[ 2024-02-18 20:39:34,600 ] 74 root - INFO - Saved Preprocessing Obj
+[ 2024-02-18 20:39:34,612 ] 22 root - INFO - Initiated Model Trainer
+[ 2024-02-18 20:39:34,614 ] 42 root - INFO - Model Evaluation Started
+[ 2024-02-18 20:41:30,441 ] 52 root - INFO - Model Evaluation Ended
+[ 2024-02-18 20:41:30,441 ] 38 root - INFO - Found the best Model
+[ 2024-02-18 20:41:31,423 ] 41 root - INFO - Saved Model Trainer Obj
